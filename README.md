@@ -6,8 +6,8 @@
 
 ![goku](https://tinyurl.com/ynxvep97)
 
-|#  |topic|             |description  |
-|---|---                |---
-|#  |JavaScript         |JS vanilla objects|
+|#  |topic      |description       |
+|---|---        |---               |
+|01 |JavaScript |JS vanilla objects|
 
 [Files Drive ADSO](https://tinyurl.com/4657t2vw)
